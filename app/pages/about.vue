@@ -2,7 +2,7 @@
   <div>This page is about me.</div>
 </template>
 <script>
-definePageMeta({
-  layout: "another",
-});
+// definePageMeta({
+//   layout: "another",
+// });
 </script>
